@@ -1,0 +1,44 @@
+{
+    "workbench.iconTheme": "vscode-icons",
+    "workbench.colorCustomizations": {
+        "[Tinacious Contrast]": {
+            "editorRuler.foreground": "#aaaaaa33",
+            "editor.background": "#000000",
+            "sideBar.background": "#090909cc",
+            "activityBar.background": "#050505",
+            "statusBar.background": "#050505",
+            "titleBar.activeBackground": "#050505",
+            "titleBar.activeForeground":"#ffffff",
+            "input.background": "#141414",
+            "tab.inactiveBackground": "#151515",
+            "tab.activeBorder": "#000000",
+            "tab.border": "#000000",
+            "editorGroupHeader.tabsBackground": "#000000",
+            "editor.selectionBackground": "#aaaaaa44",
+            "scrollbarSlider.background": "#555555aa",
+            "editorWhitespace.foreground": "#303030aa"
+        }
+    },
+    "workbench.colorTheme": "Tinacious Contrast",
+    "workbench.statusBar.feedback.visible": false,
+
+    "editor.tokenColorCustomizations": {
+        "[Tinacious Contrast]": {
+            "comments": "#888888" 
+        }
+    },
+    "editor.cursorStyle": "block",
+    "editor.fontSize": 14,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.lineHeight": 22,
+    "editor.renderWhitespace": "all",
+    "editor.renderIndentGuides": true,
+    "editor.renderControlCharacters": true,
+    "editor.tabSize": 2,
+    "editor.detectIndentation": true,
+    "editor.rulers": [80],
+
+    "window.zoomLevel": 0,
+    "window.titleBarStyle": "custom"
+}
